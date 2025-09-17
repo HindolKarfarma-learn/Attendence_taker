@@ -1,3 +1,3 @@
 extra dependency
-pip install opencv-contrib-python
-pip install imagetk
+
+pip install opencv-contrib-python imagetk
